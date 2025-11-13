@@ -3,8 +3,8 @@ In this project, I first cleaned the data using MySQL.
 In my exploratory data analysis, here are some trends I noticed:
 - The top 5 industries for total layoffs were Consumer, Retail, Other, Transportation, and Finance in that order
 - The United States had significantly more reported layoffs compared to other countries (256,559 compared to India in second place with 35,993)
-- The highest amount of layoffs in one month was in January of 2023
-- By year, the highest layoffs were in 2022 (160,661) followed by 2023 (125,677), 2020 (80,998), and 2021 (15,823)
+- The highest number of layoffs in one month was in January of 2023
+- By year, the highest total layoffs were in 2022 (160,661) followed by 2023 (125,677), 2020 (80,998), and 2021 (15,823)
 
 Below are the top 5 companies for number of workers laid off for 2020:
 
