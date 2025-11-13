@@ -18,3 +18,9 @@ Below are the top 5 companies for number of workers laid off for 2021:
 Below are the top 5 companies for number of workers laid off for 2022 with the 5th place a tie:
 
 <img width="270" height="126" alt="image" src="https://github.com/user-attachments/assets/0d652786-4267-4ea3-b9ba-ed21b5b6438b" />
+
+
+Below are the top 5 companies for number of workers laid off for 2023 with the 4th place a tie:
+
+<img width="277" height="128" alt="image" src="https://github.com/user-attachments/assets/98081cee-e989-42cb-a400-6f3289d25f2e" />
+
